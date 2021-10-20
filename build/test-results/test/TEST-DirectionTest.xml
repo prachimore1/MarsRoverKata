@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DirectionTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2021-10-20T16:37:33" hostname="Prachis-MacBook-Pro.local" time="0.005">
+  <properties/>
+  <testcase name="RightOfEastIsSouth" classname="DirectionTest" time="0.003"/>
+  <testcase name="RightOfNorthIsEast" classname="DirectionTest" time="0.0"/>
+  <testcase name="LeftOfSouthIsEast" classname="DirectionTest" time="0.0"/>
+  <testcase name="RightOfWestIsNorth" classname="DirectionTest" time="0.0"/>
+  <testcase name="LeftOfEastIsNorth" classname="DirectionTest" time="0.0"/>
+  <testcase name="LeftOfNorthIsWest" classname="DirectionTest" time="0.0"/>
+  <testcase name="LeftOfWestIsSouth" classname="DirectionTest" time="0.0"/>
+  <testcase name="RightOfSouthIsEast" classname="DirectionTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
